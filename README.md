@@ -9,5 +9,5 @@ To install:
 
 1. Get .NET Core: https://www.microsoft.com/net/core#windowsvs2017
 2. Clone the repo and navigate to it in a terminal or command window
-3. Run: `dotnet restore`
+3. Run `dotnet restore`
 4. Run `dotnet run`
